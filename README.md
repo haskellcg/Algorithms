@@ -1,1 +1,1 @@
-# Algorithms
+# Blogs
